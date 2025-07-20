@@ -1,6 +1,5 @@
 # Advanced-Object-Counting-and-Classification-with-YOLOv8-and-ESRGAN-NHA
-Smart traffic monitoring on highways  Entry/exit analytics for toll booths  Infrastructure planning and traffic policy design  Surveillance enhancement with high-resolution classification.
-# 🚧 Smart Traffic Analytics System for NHA (National Highway Authority)
+Smart traffic monitoring on highways  Entry/exit analytics for toll booths  Infrastructure planning and traffic policy design  Surveillance enhancement with high-resolution classification
 
 This is a project I worked on for **National Highway Authority (NHA)** to monitor vehicles on highways using deep learning and computer vision.
 
@@ -31,4 +30,3 @@ It includes vehicle detection, IN/OUT counting, super-resolution to enhance obje
 
 ---
 
-## 🗂 Folder Structure:
