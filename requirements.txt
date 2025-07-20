@@ -1,0 +1,5 @@
+ultralytics==8.0.20
+opencv-python
+torch>=1.13.0
+numpy
+Pillow
